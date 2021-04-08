@@ -1,5 +1,5 @@
 # Login_Link
-login_link = "https://commerce.spscommerce.com/auth/login/"
+login_link = ""
 
 # Common Constants
 INPUT_FILE_PATH = "../AppResources/InputFile_For_PurchaseOrder_Setup.xlsx"
@@ -9,8 +9,7 @@ Login_Password_Xpath = "//input[@type='password' and @name = 'password']"
 Login_Button = "//button[@test='login-button']"
 
 # Login Credentials
-Launchpad_username = "achoudhary@spscommerce.com"
-Launchpad_password = "XIP/2161ml"
+
 
 # Setup_Methods
 Nexus_tile = "//span[contains(text(),'Nexus')]"
