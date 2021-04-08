@@ -3,9 +3,9 @@ Output_File_Path = "../AppResources/OutPut.xlsx"
 
 #Launchpad login
 Login_Email = "//input[@type='email' and @id='username']"
-username = "achoudhary@spscommerce.com"
+
 Login_Password_Xpath = "//input[@type='password' and @id='password']"
-password = "XIP/2161ml"
+
 Sign_in_button = "//span[contains(text(),'Sign In')]"
 
 #TT Production
@@ -29,7 +29,7 @@ Input_Download = "(.//*[@class='sps-icon sps-icon-download-cloud']['::before'])[
 Get_TPID = ".//*[contains(text(), 'TradingPartnerId')]"
 
 #FTP pre-prod Upload
-ftp_username = "achoudhary"
+ftp_username =
 ftp_username_path = "//input[@id='username']"
 ftp_password_path = "//input[@id='password']"
 Remember_Me_path = ".//*[contains(text(), 'Remember Me')]"
