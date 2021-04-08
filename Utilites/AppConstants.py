@@ -1,5 +1,5 @@
 '''
-@ Author - Shilpa Chatterjee Roy
+
 @ Creation date - 07/06/2018
 @ Description - Declares all the constants to be used at the framework level.
 '''
